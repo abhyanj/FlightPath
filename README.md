@@ -1,4 +1,4 @@
-# Final Project - Open Flights Shortest Path
+# Open Flights Shortest Path
 
 
 **Team**: 
@@ -9,7 +9,7 @@
 
 ## Overview: 
 
-Our final project’s goals were to find the shortest path between any two airports by distance given airlines and route information from https://openflights.org/data.html. To accomplish this, our team used BFS to implement a graph of the routes, and then used Dijkstra’s and A * algorithm to find the shortest paths between any two airports.  
+Find the shortest path between any two airports by distance given airlines and route information from https://openflights.org/data.html. To accomplish this, our team used BFS to implement a graph of the routes, and then used Dijkstra’s and A * algorithm to find the shortest paths between any two airports.  
 
 
 
